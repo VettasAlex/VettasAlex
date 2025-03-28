@@ -1,17 +1,10 @@
-# 👋 Welcome to My GitHub Profile 👋
-
-## 🚀 About Me
-
-I'm a junior developer who loves solution-providing through coding, open-source contributions, and learning new tools & technologies. I'm always exploring new ideas and working on exciting projects.
-
-## 🔧 Languages
-
-- 💻 HTML
-- 💻 CSS
-- 💻 JavaScript
-- 💻 Java
-
-## 📫 Reach me!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/alexandros-vettas/)
-- 📧 Email: [alexandros.vettas@gmail.com](mailto:alexandros.vettas@gmail.com) / [oramad.dev@gmail.com](mailto:oramad.dev@gmail.com)
+<h1>Hi 👋, I'm Alex</h1>
+<p>I’m a self-taught developer, currently a junior full-stack web developer and designer. Passionate about refining my back-end skills (primarily in Java) and building effective coding solutions.</p>
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a></p>
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://www.linkedin.com/in/alexandros-vettas" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=VettasAlex&show_icons=true&locale=en&layout=compact" alt="VettasAlex" /></p>
