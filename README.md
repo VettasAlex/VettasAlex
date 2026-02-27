@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Alex Vettas,
-Self-taught Back End devel, currently working as junior full-stack web developer. Passionate about refining my back-end skills (primarily in Java) and building effective coding solutions.
+Self-taught Back End developer, currently working as junior full-stack web developer. Passionate about refining my back-end skills (primarily in Java) and building effective coding solutions.
 
 
 ## 🌐 Socials:
