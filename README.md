@@ -11,5 +11,3 @@ Self-taught Back End developer, currently working as junior full-stack web devel
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VettasAlex&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=VettasAlex&icon=0&color=0)](https://visitcount.itsvg.in)
